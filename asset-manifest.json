@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monkeyhunt/static/css/main.ef74e619.css",
+    "main.js": "/monkeyhunt/static/js/main.b5f65b56.js",
+    "index.html": "/monkeyhunt/index.html",
+    "main.ef74e619.css.map": "/monkeyhunt/static/css/main.ef74e619.css.map",
+    "main.b5f65b56.js.map": "/monkeyhunt/static/js/main.b5f65b56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef74e619.css",
+    "static/js/main.b5f65b56.js"
+  ]
+}
